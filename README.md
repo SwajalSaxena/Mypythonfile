@@ -27,4 +27,18 @@ To strengthen my Python skills for data analysis, automation, and backend develo
 - Git & GitHub
 
 ## 📁 File Structure
+📦Mypythonfile
+┣ 📜 mypythonfile.ipynb
+┗ 📜 README.md
+
+## 📈 Outcome
+
+By working on this notebook, I have:
+- Gained hands-on experience with Python basics
+- Developed logical thinking for solving programming problems
+- Prepared myself for more advanced projects in data analytics and backend scripting
+
+---
+
+> 👨‍💻 Created and maintained by [Swajal Saxena](https://github.com/SwajalSaxena)
 
